@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Istiak Ahmed</h1>
-<h3 align="center">A passionate Automation & Manual SQA Engineer from Bangladesh.</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+passionate+Automation+%26+Manual+SQA;+Engineer+from+Bangladesh.)](https://git.io/typing-svg)
+
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawon937&label=Profile%20views&color=0e75b6&style=flat" alt="shawon937" /> </p>
