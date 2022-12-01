@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Istiak Ahmed</h1>
+<h1 align="center">Hi 👋, I'm ISTIAK AHMED</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+passionate+Automation+%26+Manual+SQA;+Engineer+from+Bangladesh.)](https://git.io/typing-svg)
 
