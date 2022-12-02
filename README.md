@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **manual and automation testing**
 
-- 💬 Ask me about **Manual Testing, Automation Testing.**
+- 💬 Ask me about **Manual Testing, Automation Testing, API Testing.**
 
 - 📫 How to reach me **istiakahmed.cse@gmail.com**
 
